@@ -37,3 +37,7 @@ n
 
 Volume Weighted Stock Price ∑i Trade Pricei × Quantityi
 ∑i Quantityi
+
+To exceute the App:
+Test Case: Right Click onto project --> Run As --> Junit
+Run as Service: Goto Project Location on command line --> command: gradle bootrun

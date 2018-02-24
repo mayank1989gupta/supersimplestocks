@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.supersimple.stocks.pojo.service;
+package com.supersimple.stocks.service;
 
 import java.math.BigDecimal;
 

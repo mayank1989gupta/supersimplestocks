@@ -27,7 +27,7 @@ import com.supersimple.stocks.enums.TradeType;
 import com.supersimple.stocks.manager.SuperSimpleStockManager;
 import com.supersimple.stocks.pojo.Stock;
 import com.supersimple.stocks.pojo.Trade;
-import com.supersimple.stocks.pojo.service.SuperSimpleStocksService;
+import com.supersimple.stocks.service.SuperSimpleStocksService;
 import com.supersimple.stocks.utils.SuperSimpleStocksUtils;
 
 /**

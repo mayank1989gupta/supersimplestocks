@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.supersimple.stocks.pojo.service.impl;
+package com.supersimple.stocks.service.impl;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
@@ -19,7 +19,7 @@ import com.supersimple.stocks.constants.Constants;
 import com.supersimple.stocks.manager.SuperSimpleStockManager;
 import com.supersimple.stocks.pojo.Stock;
 import com.supersimple.stocks.pojo.Trade;
-import com.supersimple.stocks.pojo.service.SuperSimpleStocksService;
+import com.supersimple.stocks.service.SuperSimpleStocksService;
 import com.supersimple.stocks.utils.StockPredicate;
 
 /**

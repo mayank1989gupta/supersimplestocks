@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.supersimple.stocks.manager.SuperSimpleStockManager;
 import com.supersimple.stocks.pojo.Trade;
-import com.supersimple.stocks.pojo.service.SuperSimpleStocksService;
+import com.supersimple.stocks.service.SuperSimpleStocksService;
 
 /**
  * @author Mayank
